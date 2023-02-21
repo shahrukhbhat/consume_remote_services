@@ -1,0 +1,2 @@
+BusinessPartnerID;CompanyName;EmailAddress;CurrencyCode;BusinessPartnerRole
+123;mycompany;myaddr@comp.com;EUR;vendor
